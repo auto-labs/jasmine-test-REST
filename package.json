@@ -1,0 +1,32 @@
+{
+  "name": "jasmine-test-rest",
+  "version": "1.0.0",
+  "description": "Jasmine framework example for testing REST API",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/auto-labs/jasmine-test-REST.git"
+  },
+  "keywords": [
+    "jasmine",
+    "example",
+    "test",
+    "REST"
+  ],
+  "author": "Pawan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/auto-labs/jasmine-test-REST/issues"
+  },
+  "homepage": "https://github.com/auto-labs/jasmine-test-REST#readme",
+  "devDependencies": {
+    "jasmine": "^4.2.0"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "protractor-jasmine2-html-reporter": "0.0.7"
+  }
+}
