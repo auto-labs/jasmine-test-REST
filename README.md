@@ -4,13 +4,13 @@ Sample Jasmine framework for testing REST API with Reporter
 This is basic project to show how we can use Jasmine framework to test REST api.
 
 ### Software Requirement
-Node.Js (https://nodejs.org/en/download/)
-git (https://git-scm.com/downloads)
-Visual Studio Code or any text editor (https://code.visualstudio.com/download)
+- Node.Js (https://nodejs.org/en/download/)
+- git (https://git-scm.com/downloads)
+- Visual Studio Code or any text editor (https://code.visualstudio.com/download)
 
 ### Additional Resources
-axios
-protractor-jasmine2-html-reporter
+- axios
+- protractor-jasmine2-html-reporter
 
 ### Steps
 - Open Node.js command prompt (recomended) and go to the location where you want to keep the code
