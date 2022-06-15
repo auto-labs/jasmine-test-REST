@@ -19,7 +19,7 @@ This is basic project to show how we can use Jasmine framework to test REST api.
 - Execute `npm install -g`
 - Run `jasmine`
 
-Test will execute and report will be saved in root location with name as `testReports`.
+Test will execute and report will be saved in root location with directory name as `testReports`.
 
 For any issues or clarification, pls contact automation-labs@hotmail.com
 
