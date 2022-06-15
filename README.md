@@ -1,5 +1,5 @@
 # jasmine-test-REST
-Sample Jasmine framework for testing REST API with Reporter
+Sample Jasmine framework for testing REST API with Report generation and helper file implementation
 
 This is basic project to show how we can use Jasmine framework to test REST api.
 
