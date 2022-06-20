@@ -1,0 +1,6 @@
+{
+    "url": "http://api.mathjs.org/v4/?expr=2%2B3*sqrt(9)",
+    "method": "GET",
+    "data": null,
+    "expectedResult": 11
+}
